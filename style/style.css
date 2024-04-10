@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-image: url('https://www.infoescola.com/wp-content/uploads/2012/12/Bernese-Mountain-Dog_553932688.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* 50% transparency */
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #f3f2f2; /* Text color */
+    font-weight: bold;
+    padding: 20px; /* Adjust padding as needed */
+  }
+  .jumbotron {
+      background-color: transparent;
+  }
+  .custom-hr {
+      width: 30%; /* Full width */
+      height: 2px; /* Height of the horizontal rule */
+      background-color: #d1c8c8; /* White color */
+      margin: 0; /* Remove margin */
+  }

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dog Info | Dog Breed Info App</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Custom CSS -->
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #171411;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+      overflow-y: auto; /* Enable vertical scrolling */
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+      color: #ffffff; /* Text color */
+      font-weight: bold;
+      padding: 20px; /* Adjust padding as needed */
+    }
+    .jumbotron {
+        background-color: transparent;
+    }
+    .custom-hr {
+        width: 50%; /* Adjust the width as needed */
+        background-color: #d1c8c8; /* White color */
+        margin: 0; /* Remove margin */
+    }
+    .card {
+      background-color: rgb(37, 43, 51); /* Dark pastel blue */
+      color: #ffffff; /* White text color */
+      margin-bottom: 20px; /* Adjust margin as needed */
+    }
+    .search-form {
+      margin-bottom: 20px;
+    }
+    .dog-image {
+        width: 100%; /* Adjust width to fit card */
+        height: 250px; /* Maintain aspect ratio */
+        object-fit: cover; /* Ensure the image covers the entire container */
+        cursor: pointer; /* Change cursor to indicate image is clickable */
+      }
+      
+      .dog-image.expanded {
+        width: 80%; /* Adjust width to 80% of viewport width */
+        height: 80%; /* Adjust height to 80% of viewport height */
+        max-width: none; /* Remove max-width to expand image */
+        position: fixed; /* Fix image position */
+        top: 10%; /* Center image vertically */
+        left: 10%; /* Center image horizontally */
+        z-index: 9999; /* Ensure image stays on top of other elements */
+      }
+      
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">DB Info</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="doglist.html">Search</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <div class="content">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1 class="display-4">Dog Info</h1>
+          <hr class="my-4 custom-hr">
+        </div>
+      </div>
+      <!-- Search form -->
+      <div class="row search-form">
+        <div class="col-md-6">
+          <input type="text" id="searchInput" class="form-control" placeholder="Search by dog name">
+        </div>
+        <div class="col-md-4">
+          <select class="form-control" id="sizeFilter">
+            <option value="">Filter by size</option>
+            <option value="Small">Small</option>
+            <option value="Medium">Medium</option>
+            <option value="Large">Large</option>
+          </select>
+        </div>
+        <div class="col-md-2">
+          <button class="btn btn-primary btn-block" id="fetchDataBtn">Search</button>
+        </div>
+      </div>
+      <!-- Dog cards -->
+      <div class="row" id="dogCards">
+        <!-- Dog cards will be dynamically added here -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS and jQuery (required for Bootstrap components) -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <!-- Custom JavaScript -->
+  <script src="../doglist.js"></script>
+</body>
+</html>
