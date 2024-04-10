@@ -5,7 +5,7 @@
     "size": "Large",
     "temperament": ["Friendly", "Outgoing", "Gentle"],
     "life_expectancy": "10-12 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_1280.jpg",
     "description": "The Labrador Retriever is one of the most popular dog breeds in the United States. They are known for their friendly and outgoing nature, making them great family pets. Labs are also highly intelligent and trainable, often used as service dogs and in search and rescue missions."
   },
   {
@@ -14,7 +14,7 @@
     "size": "Large",
     "temperament": ["Loyal", "Confident", "Courageous"],
     "life_expectancy": "9-13 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2019/07/23/13/51/shepherd-dog-4357790_1280.jpg",
     "description": "German Shepherds are known for their intelligence, loyalty, and versatility. They are often used as police and military dogs due to their ability to learn commands quickly and their strong protective instincts. With proper training and socialization, they make excellent family companions."
   },
   {
@@ -23,7 +23,7 @@
     "size": "Large",
     "temperament": ["Intelligent", "Friendly", "Devoted"],
     "life_expectancy": "10-12 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2017/05/06/04/45/golden-retriever-2288933_1280.jpg",
     "description": "Golden Retrievers are beloved for their friendly and gentle temperament. They are highly intelligent and easy to train, making them excellent family pets and service dogs. Goldens are known for their love of water and are often used in water rescue missions."
   },
   {
@@ -32,7 +32,7 @@
     "size": "Medium",
     "temperament": ["Docile", "Willful", "Friendly"],
     "life_expectancy": "8-10 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2023/12/09/15/04/dog-8439530_1280.jpg",
     "description": "Bulldogs have a distinct appearance with their wrinkled face and pushed-in nose. Despite their tough exterior, they are affectionate and gentle dogs, known for their loyalty to their families. Bulldogs may have a stubborn streak but are generally easygoing and adaptable."
   },
   {
@@ -41,7 +41,7 @@
     "size": "Small to Medium",
     "temperament": ["Friendly", "Curious", "Merry"],
     "life_expectancy": "12-15 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2020/07/06/03/57/beagle-5375286_1280.jpg",
     "description": "Beagles are curious and merry little dogs known for their distinctive howl and keen sense of smell. They are friendly and sociable, getting along well with children and other pets. Beagles are energetic and require regular exercise to keep them happy and healthy."
   },
   {
@@ -50,7 +50,7 @@
     "size": "Small to Large",
     "temperament": ["Active", "Alert", "Intelligent"],
     "life_expectancy": "10-18 years",
-    "image": "URL_placeholder",
+    "image": "https://cdn.pixabay.com/photo/2017/03/14/01/51/poodle-2141699_1280.jpg",
     "description": "Poodles are highly intelligent and versatile dogs known for their curly coat and elegant appearance. They come in three sizes: standard, miniature, and toy. Poodles are active and require mental stimulation to prevent boredom, excelling in activities such as agility and obedience."
   },
   {
