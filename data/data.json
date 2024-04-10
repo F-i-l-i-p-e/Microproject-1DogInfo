@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Labrador Retriever",
+    "breed_group": "Sporting",
+    "size": "Large",
+    "temperament": ["Friendly", "Outgoing", "Gentle"],
+    "life_expectancy": "10-12 years",
+    "image": "URL_placeholder",
+    "description": "The Labrador Retriever is one of the most popular dog breeds in the United States. They are known for their friendly and outgoing nature, making them great family pets. Labs are also highly intelligent and trainable, often used as service dogs and in search and rescue missions."
+  },
+  {
+    "name": "German Shepherd",
+    "breed_group": "Herding",
+    "size": "Large",
+    "temperament": ["Loyal", "Confident", "Courageous"],
+    "life_expectancy": "9-13 years",
+    "image": "URL_placeholder",
+    "description": "German Shepherds are known for their intelligence, loyalty, and versatility. They are often used as police and military dogs due to their ability to learn commands quickly and their strong protective instincts. With proper training and socialization, they make excellent family companions."
+  },
+  {
+    "name": "Golden Retriever",
+    "breed_group": "Sporting",
+    "size": "Large",
+    "temperament": ["Intelligent", "Friendly", "Devoted"],
+    "life_expectancy": "10-12 years",
+    "image": "URL_placeholder",
+    "description": "Golden Retrievers are beloved for their friendly and gentle temperament. They are highly intelligent and easy to train, making them excellent family pets and service dogs. Goldens are known for their love of water and are often used in water rescue missions."
+  },
+  {
+    "name": "Bulldog",
+    "breed_group": "Non-Sporting",
+    "size": "Medium",
+    "temperament": ["Docile", "Willful", "Friendly"],
+    "life_expectancy": "8-10 years",
+    "image": "URL_placeholder",
+    "description": "Bulldogs have a distinct appearance with their wrinkled face and pushed-in nose. Despite their tough exterior, they are affectionate and gentle dogs, known for their loyalty to their families. Bulldogs may have a stubborn streak but are generally easygoing and adaptable."
+  },
+  {
+    "name": "Beagle",
+    "breed_group": "Hound",
+    "size": "Small to Medium",
+    "temperament": ["Friendly", "Curious", "Merry"],
+    "life_expectancy": "12-15 years",
+    "image": "URL_placeholder",
+    "description": "Beagles are curious and merry little dogs known for their distinctive howl and keen sense of smell. They are friendly and sociable, getting along well with children and other pets. Beagles are energetic and require regular exercise to keep them happy and healthy."
+  },
+  {
+    "name": "Poodle",
+    "breed_group": "Non-Sporting",
+    "size": "Small to Large",
+    "temperament": ["Active", "Alert", "Intelligent"],
+    "life_expectancy": "10-18 years",
+    "image": "URL_placeholder",
+    "description": "Poodles are highly intelligent and versatile dogs known for their curly coat and elegant appearance. They come in three sizes: standard, miniature, and toy. Poodles are active and require mental stimulation to prevent boredom, excelling in activities such as agility and obedience."
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "breed_group": "Toy",
+    "size": "Small",
+    "temperament": ["Affectionate", "Sprightly", "Tomboyish"],
+    "life_expectancy": "11-15 years",
+    "image": "URL_placeholder",
+    "description": "Yorkshire Terriers, or Yorkies, are small dogs with big personalities. They are affectionate and loyal companions known for their playful and spirited nature. Yorkies are adaptable to various living situations and are often favored by city dwellers due to their small size."
+  },
+  {
+    "name": "Boxer",
+    "breed_group": "Working",
+    "size": "Medium to Large",
+    "temperament": ["Playful", "Energetic", "Devoted"],
+    "life_expectancy": "10-12 years",
+    "image": "URL_placeholder",
+    "description": "Boxers are energetic and playful dogs known for their muscular build and distinctive underbite. They are devoted to their families and are excellent with children, making them great family pets. Boxers require regular exercise to keep them mentally and physically stimulated."
+  },
+  {
+    "name": "Dachshund",
+    "breed_group": "Hound",
+    "size": "Small",
+    "temperament": ["Clever", "Courageous", "Stubborn"],
+    "life_expectancy": "12-16 years",
+    "image": "URL_placeholder",
+    "description": "Dachshunds, also known as Wiener Dogs, are characterized by their long body and short legs. They are clever and courageous dogs with a stubborn streak. Dachshunds are loyal to their families but may be wary of strangers, making them good watchdogs."
+  },
+  {
+    "name": "Siberian Husky",
+    "breed_group": "Working",
+    "size": "Medium to Large",
+    "temperament": ["Outgoing", "Alert", "Gentle"],
+    "life_expectancy": "12-14 years",
+    "image": "URL_placeholder",
+    "description": "Siberian Huskies are known for their striking appearance with their thick double coat and distinctive markings. They are energetic and outgoing dogs, often described as having a mischievous and independent nature. Huskies are highly social and thrive in active households."
+  },
+  {
+    "name": "Shih Tzu",
+    "breed_group": "Toy",
+    "size": "Small",
+    "temperament": ["Affectionate", "Playful", "Outgoing"],
+    "life_expectancy": "10-16 years",
+    "image": "URL_placeholder",
+    "description": "Shih Tzus are small dogs with a big personality. They are affectionate and outgoing, often forming strong bonds with their families. Shih Tzus are playful and enjoy being the center of attention, making them great companions for families and singles alike."
+  },
+  {
+    "name": "Doberman Pinscher",
+    "breed_group": "Working",
+    "size": "Large",
+    "temperament": ["Alert", "Fearless", "Energetic"],
+    "life_expectancy": "10-12 years",
+    "image": "URL_placeholder",
+    "description": "Doberman Pinschers are known for their sleek and muscular appearance. They are intelligent and loyal dogs, often used as guard dogs and in police work. Dobermans are energetic and require regular exercise and mental stimulation to keep them happy and healthy."
+  },
+  {
+    "name": "Rottweiler",
+    "breed_group": "Working",
+    "size": "Large",
+    "temperament": ["Confident", "Courageous", "Alert"],
+    "life_expectancy": "8-10 years",
+    "image": "URL_placeholder",
+    "description": "Rottweilers are powerful and confident dogs known for their loyalty and protective instincts. They are calm and confident in demeanor but can be reserved around strangers. Rottweilers are devoted to their families and require early socialization and training."
+  },
+  {
+    "name": "Great Dane",
+    "breed_group": "Working",
+    "size": "Extra Large",
+    "temperament": ["Friendly", "Gentle", "Affectionate"],
+    "life_expectancy": "7-10 years",
+    "image": "URL_placeholder",
+    "description": "Great Danes are one of the largest dog breeds, known for their imposing size and gentle nature. Despite their size, they are friendly and affectionate dogs, often referred to as gentle giants. Great Danes are good with children and make loyal family companions."
+  },
+  {
+    "name": "Pug",
+    "breed_group": "Toy",
+    "size": "Small",
+    "temperament": ["Charming", "Mischievous", "Loyal"],
+    "life_expectancy": "12-15 years",
+    "image": "URL_placeholder",
+    "description": "Pugs are small dogs with a big personality. They are known for their wrinkled face and curled tail. Pugs are charming and mischievous, often described as 'clowns' of the dog world. Despite their playful nature, they are affectionate and loyal to their families."
+  },
+  {
+    "name": "Australian Shepherd",
+    "breed_group": "Herding",
+    "size": "Medium to Large",
+    "temperament": ["Intelligent", "Energetic", "Loyal"],
+    "life_expectancy": "12-15 years",
+    "image": "URL_placeholder",
+    "description": "Australian Shepherds, also known as 'Aussies', are highly intelligent and energetic dogs known for their herding abilities. They are loyal and affectionate companions, often forming strong bonds with their families. Aussies thrive in active households where they have plenty of opportunities for exercise and mental stimulation."
+  },
+  {
+    "name": "Shetland Sheepdog",
+    "breed_group": "Herding",
+    "size": "Small to Medium",
+    "temperament": ["Loyal", "Intelligent", "Energetic"],
+    "life_expectancy": "12-14 years",
+    "image": "URL_placeholder",
+    "description": "Shetland Sheepdogs, or Shelties, are intelligent and energetic herding dogs known for their agility and speed. They are loyal and affectionate companions, often forming strong bonds with their families. Shelties excel in obedience and agility competitions."
+  },
+  {
+    "name": "Chihuahua",
+    "breed_group": "Toy",
+    "size": "Small",
+    "temperament": ["Bold", "Sassy", "Affectionate"],
+    "life_expectancy": "12-20 years",
+    "image": "URL_placeholder",
+    "description": "Chihuahuas are one of the smallest dog breeds, known for their big personalities. They are bold and sassy little dogs with a fearless attitude. Despite their small size, Chihuahuas are often quite confident and may not hesitate to stand up to much larger dogs."
+  },
+  {
+    "name": "Pomeranian",
+    "breed_group": "Toy",
+    "size": "Small",
+    "temperament": ["Extroverted", "Playful", "Friendly"],
+    "life_expectancy": "12-16 years",
+    "image": "URL_placeholder",
+    "description": "Pomeranians are small dogs with a big personality. They are extroverted and playful, often described as 'big dogs in small bodies'. Pomeranians are highly social and enjoy being the center of attention, making them great companions for singles and families alike."
+  },
+  {
+    "name": "Cocker Spaniel",
+    "breed_group": "Sporting",
+    "size": "Medium",
+    "temperament": ["Gentle", "Smart", "Happy"],
+    "life_expectancy": "12-15 years",
+    "image": "URL_placeholder",
+    "description": "Cocker Spaniels are gentle and affectionate dogs known for their beautiful silky coats and expressive eyes. They are intelligent and eager to please, making them easy to train. Cockers are great with children and make loyal family companions."
+  },
+  {
+    "name": "Basset Hound",
+    "breed_group": "Hound",
+    "size": "Medium",
+    "temperament": ["Affectionate", "Gentle", "Friendly"],
+    "life_expectancy": "10-12 years",
+    "image": "URL_placeholder",
+    "description": "Basset Hounds are recognizable by their long ears and droopy skin. They are affectionate and laid-back dogs known for their gentle and friendly nature. Bassets have a keen sense of smell and are often used in scent tracking and hunting."
+  },
+  {
+    "name": "Border Collie",
+    "breed_group": "Herding",
+    "size": "Medium",
+    "temperament": ["Intelligent", "Energetic", "Responsive"],
+    "life_expectancy": "12-16 years",
+    "image": "URL_placeholder",
+    "description": "Border Collies are highly intelligent and energetic dogs known for their herding abilities. They are responsive and eager to please, making them excellent working dogs and companions. Border Collies thrive in environments where they have plenty of mental and physical stimulation."
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "breed_group": "Working",
+    "size": "Large",
+    "temperament": ["Gentle", "Affectionate", "Intelligent"],
+    "life_expectancy": "7-10 years",
+    "image": "URL_placeholder",
+    "description": "Bernese Mountain Dogs are large and gentle dogs known for their friendly and affectionate nature. They are intelligent and eager to please, making them easy to train. Berners are great with children and make loyal family companions."
+  },
+  {
+    "name": "Boston Terrier",
+    "breed_group": "Non-Sporting",
+    "size": "Small",
+    "temperament": ["Friendly", "Lively", "Intelligent"],
+    "life_expectancy": "13-15 years",
+    "image": "URL_placeholder",
+    "description": "Boston Terriers are small dogs with a big personality. They are friendly and lively companions known for their tuxedo-like coat and expressive eyes. Bostons are intelligent and easy to train, making them great family pets and companions for singles."
+  },
+  {
+    "name": "Shiba Inu",
+    "breed_group": "Non-Sporting",
+    "size": "Medium",
+    "temperament": ["Alert", "Active", "Confident"],
+    "life_expectancy": "12-15 years",
+    "image": "URL_placeholder",
+    "description": "Shiba Inus are agile and confident dogs known for their spirited personality. They are independent and somewhat aloof, often compared to cats in their behavior. Shibas are loyal to their families but may be reserved around strangers."
+  },
+  {
+    "name": "Saint Bernard",
+    "breed_group": "Working",
+    "size": "Extra Large",
+    "temperament": ["Gentle", "Friendly", "Patient"],
+    "life_expectancy": "8-10 years",
+    "image": "URL_placeholder",
+    "description": "Saint Bernards are massive and gentle dogs known for their friendly and patient demeanor. They are often referred to as 'gentle giants' due to their size and sweet nature. Saints are great with children and make loyal family companions."
+  }
+]
