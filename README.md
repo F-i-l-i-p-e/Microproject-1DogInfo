@@ -1,4 +1,4 @@
-# Microproject-1GameList
+# Microproject-1DogBreedInfo
 
 Assignment Instructions:  
 
