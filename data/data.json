@@ -1,5 +1,14 @@
 [
   {
+    "name": "Bernese Mountain Dog",
+    "breed_group": "Working",
+    "size": "Large",
+    "temperament": ["Gentle", "Affectionate", "Intelligent"],
+    "life_expectancy": "7-10 years",
+    "image": "https://cdn.pixabay.com/photo/2018/02/17/18/55/dog-3160604_1280.jpg",
+    "description": "Bernese Mountain Dogs are large and gentle dogs known for their friendly and affectionate nature. They are intelligent and eager to please, making them easy to train. Berners are great with children and make loyal family companions."
+  },
+  {
     "name": "Labrador Retriever",
     "breed_group": "Sporting",
     "size": "Large",
@@ -196,15 +205,6 @@
     "life_expectancy": "12-16 years",
     "image": "https://cdn.pixabay.com/photo/2024/01/11/12/46/border-collie-8501579_1280.jpg",
     "description": "Border Collies are highly intelligent and energetic dogs known for their herding abilities. They are responsive and eager to please, making them excellent working dogs and companions. Border Collies thrive in environments where they have plenty of mental and physical stimulation."
-  },
-  {
-    "name": "Bernese Mountain Dog",
-    "breed_group": "Working",
-    "size": "Large",
-    "temperament": ["Gentle", "Affectionate", "Intelligent"],
-    "life_expectancy": "7-10 years",
-    "image": "https://cdn.pixabay.com/photo/2018/02/17/18/55/dog-3160604_1280.jpg",
-    "description": "Bernese Mountain Dogs are large and gentle dogs known for their friendly and affectionate nature. They are intelligent and eager to please, making them easy to train. Berners are great with children and make loyal family companions."
   },
   {
     "name": "Boston Terrier",
